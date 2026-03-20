@@ -1,0 +1,13 @@
+<img src="https://pbs.twimg.com/media/GF1dfbwXcAAGwGK.jpg" id="full-screen-image" alt="Full screen background">
+<style>#full-screen-image {
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto; /* Ensures aspect ratio is maintained */
+    height: auto; /* Ensures aspect ratio is maintained */
+    z-index: -1; /* Puts the image behind other content */
+    object-fit: cover; /* Alternative to background-size: cover for img tags */
+}
+</style>
