@@ -1,7 +1,7 @@
-[https://garfield-mondays-club.nekoweb.org/sfpsa](https://garfield-mondays-club.nekoweb.org/sfpb)
+[https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
 
 
 
 
-[.c](https://hexanaut.io/d)
-[....e](https://garfield-mondays-club.nekoweb.org/sfpf)
+[.](https://hexanaut.io/)
+[....](https://garfield-mondays-club.nekoweb.org/sfpf)
