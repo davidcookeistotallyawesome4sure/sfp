@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Bookmarklet Creator</title>
+    <style>
+        body { font-family: sans-serif; max-width: 600px; margin: 2rem auto; line-height: 1.5; }
+        textarea { width: 100%; height: 150px; font-family: monospace; }
+        #output { margin-top: 1.5rem; padding: 1rem; border: 2px dashed #ccc; display: none; }
+        .hint { font-size: 0.9rem; color: #666; }
+    </style>
+</head>
+<body>
+    <h1>Bookmarklet Creator</h1>
+    <p>Paste your JS code below to turn it into a draggable link.</p>
+    
+    <label for="name">Bookmark Name:</label><br>
+    <input type="text" id="name" placeholder="My Bookmarklet" style="width:100%; margin-bottom:10px;"><br>
+    
+    <label for="code">JavaScript Code:</label><br>
+    <textarea id="code" placeholder="alert('Hello World!');"></textarea>
+    
+    <button onclick="generate()" style="margin-top:10px; padding:10px 20px; cursor:pointer;">Generate Link</button>
+
+    <div id="output">
+        <strong>Result:</strong><br>
+        <a id="bookmarkLink" href="#">Drag Me to Your Bookmarks Bar</a>
+        <p class="hint">Right-click the link to "Bookmark this link" or drag it directly to your toolbar.</p>
+    </div>
+
+    <script>
+        function generate() {
+            const nameInput = document.getElementById('name').value || 'Bookmarklet';
+            const codeInput = document.getElementById('code').value.trim();
+            const outputDiv = document.getElementById('output');
+            const link = document.getElementById('bookmarkLink');
+
+            if (!codeInput) return alert("Please enter some code!");
+
+            // 1. Remove comments and minify roughly by collapsing whitespace
+            let minified = codeInput
+                .replace(/\/\*[\s\S]*?\*\/|([^\\:]|^)\/\/.*$/gm, '$1') // remove comments
+                .replace(/\s+/g, ' ') // collapse spaces
+                .trim();
+
+            // 2. Wrap in IIFE and URL encode
+            const bookmarklet = "javascript:(function(){" + encodeURIComponent(minified) + "})();";
+
+            // 3. Update the link
+            link.href = bookmarklet;
+            link.innerText = nameInput;
+            outputDiv.style.display = 'block';
+        }
+    </script>
+</body>
+</html>
