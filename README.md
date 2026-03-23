@@ -1,7 +1,14 @@
 [https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
+[CLICK HERE]([https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
 
 
-[VERIFY](https://hexanaut.io/?verifyEmail=dXQxBajSTx4AOKhW1QEuwJnO0QcSZ5IC)
 
 [.](https://hexanaut.io/)
 [....](https://garfield-mondays-club.nekoweb.org/sfp)
