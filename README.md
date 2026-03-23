@@ -12,4 +12,6 @@
 
 
 
-[fake BSOD](https://garfield-mondays-club.nekoweb.org/lolglitch.html)
+[fake glitch](https://garfield-mondays-club.nekoweb.org/lolglitch.html)
+
+[Fake B.S.O.D.](https://garfield-mondays-club.nekoweb.org/fake-bsod)
