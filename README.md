@@ -4,7 +4,7 @@
 
 
 [.](https://hexanaut.io/)
-[....](https://garfield-mondays-club.nekoweb.org/sfpf)
+[....](https://garfield-mondays-club.nekoweb.org/sfp)
 
 [g..](https://www.google.com/)
 
