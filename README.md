@@ -1,7 +1,7 @@
 [https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
 
 
-
+[VERIFY](https://hexanaut.io/?verifyEmail=dXQxBajSTx4AOKhW1QEuwJnO0QcSZ5IC)
 
 [.](https://hexanaut.io/)
 [....](https://garfield-mondays-club.nekoweb.org/sfp)
@@ -17,3 +17,4 @@
 [Fake B.S.O.D.](https://garfield-mondays-club.nekoweb.org/fake-bsod)
 
 [N-gon game](https://landgreen.github.io/n-gon)
+
