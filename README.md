@@ -9,3 +9,7 @@
 [g..](https://www.google.com/)
 
 [.](https://rammerhead.x443.pw/)
+
+
+
+[fake BSOD](https://garfield-mondays-club.nekoweb.org/lolglitch.html)
