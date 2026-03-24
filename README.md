@@ -5,7 +5,7 @@
 [hex.](https://hexanaut.io/)
 [....](https://garfield-mondays-club.nekoweb.org/sfp)
 
-[g..](https://www.google.com/)
+[google](https://www.google.com/)
 
 [rh.](https://rammerhead.x443.pw/)
 
