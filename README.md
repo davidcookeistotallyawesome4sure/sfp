@@ -1,10 +1,4 @@
 [https://garfield-mondays-club.nekoweb.org/sfps](https://garfield-mondays-club.nekoweb.org/sfp)
-[CLICK HERE](https://garfield-mondays-club.nekoweb.org/sfp)
-[CLICK HERE](https://garfield-mondays-club.nekoweb.org/sfp)
-[CLICK HERE](https://garfield-mondays-club.nekoweb.org/sfp)
-[CLICK HERE](https://garfield-mondays-club.nekoweb.org/sfp)
-[CLICK HERE](https://garfield-mondays-club.nekoweb.org/sfp)
-[CLICK HERE](https://garfield-mondays-club.nekoweb.org/sfp)
 
 
 
