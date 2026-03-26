@@ -10,7 +10,7 @@
 
 [rh.](https://rammerhead.x443.pw/)
 
-[sonic feet pics](Accessed URL: https://geekprank.com/just-prank/)
+[sonic feet pics](https://geekprank.com/just-prank/)
 
 [fake glitch](https://garfield-mondays-club.nekoweb.org/lolglitch.html)
 
